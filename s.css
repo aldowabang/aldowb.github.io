@@ -34,7 +34,7 @@ a {
 }
 
 body::before {
-    content: "\00A9  aldo wb | aldo wb";
+    content: "\00A9  aldo wbg | aldo wb";
     color: white;
     opacity: .2;
     font-size: 11px;
